@@ -6,7 +6,11 @@ This project trains an N-gram model to classify six different languages by analy
 - Train an N-gram model for six-language classification.
 - Use character frequency for language classification rather than full words.
 
+## Experiment
+- Run the HW1.ipynb
+
 ## Data
+- train.tsv and test.tsv
 - Format: `(language, sentence)`
 - Example:
   - Swahili: `Unatakiwa ukumbuke kuwa ulikuwa mtumwa katika nchi ya Misri; kwa hiyo nakuagiza kutii amri hii.`
